@@ -153,6 +153,12 @@
                 "logo": "./img/logo_yjzw.svg",
                 "desc": "国外前端新领域",
                 "link": "https://docschina.org/"
+            },
+            {
+                "name": "阿里巴巴字体图标库",
+                "logo": "./img/logo_default.png",
+                "desc": "阿里巴巴字体图标库",
+                "link": "https://www.iconfont.cn/"
             }
         ]
     },
