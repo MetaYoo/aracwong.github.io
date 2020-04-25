@@ -268,6 +268,12 @@
                 "logo": "./img/logo_default.png",
                 "desc": "React Router使用例子",
                 "link": "https://reacttraining.com/react-router/web/guides/quick-start"
+            },
+            {
+                "name": "莫那·鲁道",
+                "logo": "./img/logo_default.png",
+                "desc": "莫那·鲁道技术博客",
+                "link": "https://www.cnblogs.com/stateis0/"
             }
         ]
     },
