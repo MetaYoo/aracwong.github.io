@@ -330,6 +330,13 @@
                 "desc": "学渣导航",
                 "link": "https://www.xuezha.vip/"
             }
+			,
+            {
+                "name": "吉他堂",
+                "logo": "./img/logo-jitatang.png",
+                "desc": "吉他堂",
+                "link": "https://www.jitatang.com/"
+            }
         ]
     },
     {
