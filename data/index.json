@@ -68,6 +68,24 @@
                 "logo": "./img/logo_TechCrunch.jpg",
                 "desc": "全球创业创新资讯",
                 "link": "https://twitter.com/techcrunch"
+            },
+            {
+                "name": "iData",
+                "logo": "./img/idata_logo.png",
+                "desc": "iData知识搜索",
+                "link": "https://www.cn-ki.net/"
+            },
+            {
+                "name": "PDF DRIVE",
+                "logo": "./img/paf_drive.png",
+                "desc": "PDF DRIVE",
+                "link": "https://www.pdfdrive.com/"
+            },
+            {
+                "name": "Library Genesis",
+                "logo": "./img/idata_logo.png",
+                "desc": "Library Genesis",
+                "link": "http://libgen.is/"
             }
         ]
     },
