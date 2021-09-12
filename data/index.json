@@ -336,6 +336,12 @@
                 "logo": "./img/logo-jitatang.png",
                 "desc": "吉他堂",
                 "link": "https://www.jitatang.com/"
+            },
+            {
+                "name": "全国图书馆参考咨询联盟",
+                "logo": "./img/logosmall.jpg",
+                "desc": "全国图书馆参考咨询联盟",
+                "link": "http://www.ucdrs.superlib.net/"
             }
         ]
     },
