@@ -37,7 +37,7 @@ class Header extends React.Component {
             <div className="container">
                 <h2 className="logo">
                     <a target="_blank" href="http://www.kotall.com/">
-                        <img src="/img/mp_logo.png" alt="" />
+                        <img src="/img/sanmu_logo_touming.jpg" alt="" />
                     </a>
                 </h2>
                 <nav id="nav" className="nav">
