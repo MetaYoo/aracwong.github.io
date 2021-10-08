@@ -1,4 +1,72 @@
-[{
+[
+    {
+    "id": "resouce",
+    "name": "资源",
+    "caption": "资源站点",
+    "caption-icon": "icon icon-nav",
+    "contentList": [{
+            "name": "书享家",
+            "logo": "./img/shuxiangjia.png",
+            "desc": "电子书资源导航",
+            "link": "http://shuxiangjia.cn/"
+        },
+        {
+            "name": "学吧导航",
+            "logo": "./img/xuebadaohang_logo.png",
+            "desc": "自学资源导航",
+            "link": "https://www.xue8nav.com/"
+        },
+        {
+            "name": "科塔学术",
+            "logo": "./img/ketaxueshu_logo.png",
+            "desc": "学术资源导航",
+            "link": "https://site.sciping.com/"
+        },
+        {
+            "name": "HiPPTer",
+            "logo": "./img/ppt_ziyuan_logo.png",
+            "desc": "PPT资源导航",
+            "link": "http://www.hippter.com/"
+        },
+        {
+            "name": "阿猫阿狗导航",
+            "logo": "./img/amaoagou_logo.png",
+            "desc": "互联网工具",
+            "link": "https://dh.woshipm.com/"
+        },
+        {
+            "name": "创造狮",
+            "logo": "./img/chuangzaoshi_logo.png",
+            "desc": "互联网工具",
+            "link": "http://chuangzaoshi.com/index"
+        },
+        {
+            "name": "199it",
+            "logo": "./img/dashujudaohang_logo.jpg",
+            "desc": "数据导航",
+            "link": "http://hao.199it.com/"
+        },
+        {
+            "name": "打假导航",
+            "logo": "./img/dajiadaohang_logo.png",
+            "desc": "国家部门集合",
+            "link": "http://www.dajiadaohang.com/"
+        },
+        {
+            "name": "语言学习资源导航",
+            "logo": "./img/zerotohero_logo.png",
+            "desc": "语言学习资源导航",
+            "link": "https://www.zerotohero.ca"
+        },
+        {
+            "name": "wikiHow",
+            "logo": "./img/wikihow_logo.png",
+            "desc": "全球最大万事指南",
+            "link": "https://zh.wikihow.com"
+        }
+      ]
+    },
+    {
         "id": "community",
         "name": "社区",
         "caption": "技术社区",
@@ -429,72 +497,6 @@
                 "link": "http://www.chyxx.com/shuju/"
             }
         ]
-    },
-    {
-        "id": "resouce",
-        "name": "资源",
-        "caption": "资源站点",
-        "caption-icon": "icon icon-nav",
-        "contentList": [{
-                "name": "书享家",
-                "logo": "./img/shuxiangjia.png",
-                "desc": "电子书资源导航",
-                "link": "http://shuxiangjia.cn/"
-            },
-            {
-                "name": "学吧导航",
-                "logo": "./img/xuebadaohang_logo.png",
-                "desc": "自学资源导航",
-                "link": "https://www.xue8nav.com/"
-            },
-            {
-                "name": "科塔学术",
-                "logo": "./img/ketaxueshu_logo.png",
-                "desc": "学术资源导航",
-                "link": "https://site.sciping.com/"
-            },
-            {
-                "name": "HiPPTer",
-                "logo": "./img/ppt_ziyuan_logo.png",
-                "desc": "PPT资源导航",
-                "link": "http://www.hippter.com/"
-            },
-            {
-                "name": "阿猫阿狗导航",
-                "logo": "./img/amaoagou_logo.png",
-                "desc": "互联网工具",
-                "link": "https://dh.woshipm.com/"
-            },
-            {
-                "name": "创造狮",
-                "logo": "./img/chuangzaoshi_logo.png",
-                "desc": "互联网工具",
-                "link": "http://chuangzaoshi.com/index"
-            },
-            {
-                "name": "199it",
-                "logo": "./img/dashujudaohang_logo.jpg",
-                "desc": "数据导航",
-                "link": "http://hao.199it.com/"
-            },
-            {
-                "name": "打假导航",
-                "logo": "./img/dajiadaohang_logo.png",
-                "desc": "国家部门集合",
-                "link": "http://www.dajiadaohang.com/"
-            },
-            {
-                "name": "语言学习资源导航",
-                "logo": "./img/zerotohero_logo.png",
-                "desc": "语言学习资源导航",
-                "link": "https://www.zerotohero.ca"
-            },
-            {
-                "name": "wikiHow",
-                "logo": "./img/wikihow_logo.png",
-                "desc": "全球最大万事指南",
-                "link": "https://zh.wikihow.com"
-            }
-        ]
     }
+    
 ]
